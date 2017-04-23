@@ -1,0 +1,4 @@
+M2_HOME  C:\Users\c00620443\Desktop\My Doc\apache-maven-3.5.0-bin\
+MAVEN_HOME C:\Users\c00620443\Desktop\My Doc\apache-maven-3.5.0-bin
+M2 C:\Users\c00620443\Desktop\My Doc\apache-maven-3.5.0-bin\bin
+JAVA_HOME C:\Java\jdk1.8.0_76
